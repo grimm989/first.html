@@ -1,0 +1,26 @@
+ li, div{
+color:black;
+}
+/* . class{
+  color: pink;
+} */
+ body{
+    /* background-color:pink; */
+  background-image: url("img1.jpg");
+  background-respect: no-repeat;
+  background-position:left top;
+  background-attachment: fixed;
+
+
+/* }
+.nav{
+background: green;
+} */
+.item{
+background: pink;
+}
+/* .class{
+  border-style: dotted;
+  border-width: 2px;
+  border-color: red;
+} */
